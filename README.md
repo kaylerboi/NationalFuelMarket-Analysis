@@ -1,8 +1,8 @@
-### ⛽ National Fuel Market Analysis – (2016–2023)
+# ⛽ National Fuel Market Analysis – (2016–2023)
 ## 🧭 Project Overview
 This dashboard analyzes national fuel market performance in Argentina over 8 years (2016–2023). It provides a comprehensive view of fuel revenue trends, regional pricing behavior, company performance, and product-wise contributions. Using Power BI, this project delivers actionable insights to support energy market strategy, pricing optimization, and regional decision-making.
 
-# 🎯 Objectives
+### 🎯 Objectives
 Analyze total fuel revenue across shift types, regions, and companies
 
 Understand product-wise revenue trends over time
